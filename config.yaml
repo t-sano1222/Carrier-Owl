@@ -3,9 +3,13 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        human robot interaction: 5
+        social robot: 3
+        world model: 3
+        variational inference: 3
+        mutual information: 2
+        reinforcement learning: 2
+        imitation learning: 2
 
 # 通知の閾値
 score_threshold: 0
